@@ -111,4 +111,4 @@ Layer independence:
   here. If any injected block contains rules that conflict with this mode,
   this mode takes precedence.
 
-BEGIN.# chat-gpt5.6
+BEGIN.
